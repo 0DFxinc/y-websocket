@@ -1,7 +1,7 @@
 name: Build invoker
 on: 
   push: 
-    branches: [ "development" ]
+    branches: [ "odfx-ywebsocket" ]
   
 jobs:
   Cypress-Test:
